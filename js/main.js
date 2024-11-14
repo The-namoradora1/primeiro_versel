@@ -44,17 +44,23 @@ var ex_5=document.querySelector("#exe_5")
 var ex_6=document.querySelector("#exe_6")
 var ex_7=document.querySelector("#exe_7")
 var ex_8=document.querySelector("#exe_8")
+
+
 var ex_1_2=document.querySelector("#exe_1_2")
 var ex_2_2=document.querySelector("#exe_2_2")
 var ex_3_2=document.querySelector("#exe_3_2")
 var ex_4_2=document.querySelector("#exe_4_2")
 var ex_5_2=document.querySelector("#exe_5_2")
 var ex_6_2=document.querySelector("#exe_6_2")
+
+
 var ex_1_3=document.querySelector("#exe_1_3")
 var ex_2_3=document.querySelector("#exe_2_3")
 var ex_3_3=document.querySelector("#exe_3_3")
 var ex_4_3=document.querySelector("#exe_4_3")
 var ex_5_3=document.querySelector("#exe_5_3")
+
+
 var ex_1_4=document.querySelector("exe_1_4")
 var ex_2_4=document.querySelector("exe_2_4")
 var ex_3_4=document.querySelector("exe_3_4")
@@ -76,17 +82,23 @@ var bnt =document.querySelector('.bnt_apagar')
   ex_6.addEventListener('click',leitura )
   ex_7.addEventListener('click',gasolina )
   ex_8.addEventListener('click',camistasVendidas)
+
+  
 ex_1_2.addEventListener('click',execicio1)
 ex_2_2.addEventListener('click',exercicio2 )
 ex_3_2.addEventListener('click',execicio3)
 ex_4_2.addEventListener('click',exercicio4)
 ex_5_2.addEventListener('click',exercicio5 )
 ex_6_2.addEventListener('click',exercicio6 )
+
+
 ex_1_3.addEventListener('click', case1)
 ex_2_3.addEventListener('click', case2)
 ex_3_3.addEventListener('click', case3)
 ex_4_3.addEventListener('click', case4)
 ex_5_3.addEventListener('click', case5)
+
+
 ex_1_4.addEventListener('click', tempoMasa)
 ex_2_4.addEventListener('click', tabuada)
 ex_3_4.addEventListener('click', tabuada2)
