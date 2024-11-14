@@ -1,0 +1,38 @@
+
+
+.exercicio{
+    display: flex;
+} 
+.resultado{
+    background-color: rgb(248, 234, 42);
+    color: black;
+    width: 60%;
+    height: 200px ;
+    margin: 60px 250px;
+    padding: 5px;
+    margin-top: 20%;
+    align-items: center;
+
+}
+.bnt_apagar{
+    background-color: rgb(255, 255, 255);
+    margin: 30px 250px;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(249, 255, 164);
+}
+.conteiner{
+    float:left; 
+    width: 20%;
+    margin-top: 10px;
+}
+ul {
+    list-style-image: url('https://i.stack.imgur.com/5kI3v.png')
+  }
+  li{
+    font-size: larger;
+  }
+
+
